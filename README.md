@@ -215,8 +215,8 @@ https://hiretrack-pi.vercel.app
 
 # 📫 Connect With Me
 
-- 💼 LinkedIn: *(Add your LinkedIn profile link)*
-- 📧 Email: *(Add your professional email)*
+- Phone: 7356093134
+- 📧 Email: annannice98@gmail.com
 - 🐙 GitHub: https://github.com/Ann-Annice
 
 ---
